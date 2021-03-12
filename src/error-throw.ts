@@ -14,4 +14,3 @@ function  generateError(message: string, code: number): never {
 }
 
 generateError('an error', 50);
-
